@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/purpleFade/blackbot-client-test.git
+[submodule "server"]
+	path = server
+	url = https://github.com/purpleFade/blackbot-server-test
